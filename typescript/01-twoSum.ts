@@ -37,6 +37,7 @@ Space complexity: O(n)
 */
 
 function twoSum(nums: number[], target: number): number[] {
+    // written by hakanai @ https://github.com/hakanai-sc/grind-75
     // create a JS object
     let map = {};
 

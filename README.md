@@ -14,5 +14,11 @@ memorize their reasons, not just spit out the code pattern.
 i will solve them all in typescript first, and then in a different
 language.
 
+
+### Pull requests
+
+i will **not** accept issues or pull requests to this repository. it is
+meant to reflect my own work only.
+
 ### LICENSE 
 MIT

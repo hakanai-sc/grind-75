@@ -29,6 +29,8 @@ triggered a pop so we can just check and return the boolean of if the length is 
 */
 
 function isValid(s: string): boolean {
+	// written by hakanai @ https://github.com/hakanai-sc/grind-75
+
     // we will be constantly looking at a set of brackets.
     // might as well default to the hashmap construct to make
     // the lookups easier on us.
