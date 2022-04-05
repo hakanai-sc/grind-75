@@ -20,6 +20,7 @@
     note that it is sorted in ascending order so we can.
 */
 function search(nums: number[], target: number): number {
+    // written by hakanai @ https://github.com/hakanai-sc/grind-75
     // set the range limits, begin and end
     let begin = 0;
     let end = nums.length - 1;
