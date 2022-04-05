@@ -27,6 +27,7 @@
 */
 
 function maxProfit(prices: number[]): number {
+    // written by hakanai @ https://github.com/hakanai-sc/grind-75
     
     // first, short circuit on the edge cases
     if (!Array.isArray(prices) || prices.length === 0) {
@@ -65,6 +66,7 @@ function maxProfit(prices: number[]): number {
  * This is the naive solution that will run out of time.
  */
 function maxProfitNaive(prices: number[]): number {
+    // written by hakanai @ https://github.com/hakanai-sc/grind-75
     
     // first, short circuit on the edge cases
     if (!Array.isArray(prices) || prices.length === 0) {
