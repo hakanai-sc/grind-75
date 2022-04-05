@@ -10,7 +10,6 @@
 
 
 /*
-
     this is the merge step of a merge sort.
     we move along the list and add them to a new list.
 
