@@ -22,6 +22,9 @@
 
     this felt relatively intuitive to solve in this way from doing data
     mangling in numpy for data science work
+
+    this can be solved faster by establishing a heap and not sorting the
+    entire point array, but this seems good enough
 */
 
 function kClosest(points: number[][], k: number): number[][] {
